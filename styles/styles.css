@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+.header {
+    height: 100px;
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+  }
